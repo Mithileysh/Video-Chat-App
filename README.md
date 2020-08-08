@@ -16,8 +16,8 @@ Credit: Valarpirai
 * PeerJS Server hosted on [Heroku](https://my-peer.herokuapp.com)
 
 ### Client
-* Source Code on [Github](https://github.com/valarpirai/video-chat-app)
-* Hosted on [Github pages](https://valarpirai.github.io/video-chat-app)
+* Source Code on [Github](https://github.com/mithileysh/Video-Chat-App)
+* Hosted on [Github pages](https://mithileysh.github.io/Video-Chat-App/)
 
 ### Screenshots
 
